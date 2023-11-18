@@ -6,6 +6,7 @@ This web app: **React CRUD Application**
 
 Time spent: **7** hours spent in total
 
+Netlify Link: https://splendorous-elf-426f7b.netlify.app/
 ## Required Features
 
 The following **required** functionality is completed:
